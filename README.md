@@ -1,7 +1,8 @@
 ### Hi there 👋
+
 ![Uploading s1uNDIsM.jpg…]()
 
-##🔭 I’m currently working on Personnel Project
+
 <!--
 **mahf-TB/mahf-TB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
