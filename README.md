@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mahefa Bienvenu </h1>
 <h3 align="center">A FullStack developer 🇲🇬</h3>
 
@@ -6,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahf-TB](https://github.com/mahf-TB)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/mahf-TB?tab=repositories)
 
 - 💬 Ask me about **React , Typescript**
 
