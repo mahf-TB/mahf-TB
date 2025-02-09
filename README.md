@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, NodeJs**
+- 🌱 I’m currently learning **VueJS, Python, IA**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/mahf-TB?tab=repositories)
 
-- 💬 Ask me about **React , Typescript**
+- 💬 I'm currently a developer working with **React , Express**
 
 - 📫 How to reach me **mahefatsilavirintsoa@gmail.com**
 
