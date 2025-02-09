@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋, I'm Mahefa Bienvenu </h1>
-<h3 align="center">A FullStack developper 🇲🇬</h3>
+# 👋 Bonjour, je suis **Mahefa Bienvenu**  
+## Développeur Full-Stack passionné
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)  
 
-- 🌱 I’m currently learning **VueJS, Python, IA**
+---
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/mahf-TB?tab=repositories)
+### 🌱 Actuellement en train d'apprendre :  
+- **Vue.js**, **Python**, et **Intelligence Artificielle**  
 
-- 💬 I'm currently a developer working with **React , Express**
+---
 
-- 📫 How to reach me **mahefatsilavirintsoa@gmail.com**
+### 👨‍💻 Mes compétences actuelles :  
+- **Frontend** : React.js, Vue.js  
+- **Backend** : Node.js, Express  
+- **Bases de données** : MongoDB, MySQL  
+- **Outils et autres** : Git, Docker, Webpack
+
+---
+
+### 🚀 Mes projets sont disponibles sur mon [GitHub](https://github.com/mahf-TB?tab=repositories)  
+
+Je développe des applications complexes et évolutives, en mettant l'accent sur la qualité du code, la performance et l'expérience utilisateur. Explore mes projets pour voir de quoi je suis capable !
+
+---
+
+### 💬 Toujours prêt à discuter de nouvelles opportunités et projets intéressants !  
+Tu peux me contacter par email : **mahefatsilavirintsoa@gmail.com**
+
+---
+
+### 📈 Actuellement en quête de nouvelles opportunités de collaboration ou de développement !
 
 
 <!--
