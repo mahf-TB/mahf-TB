@@ -1,50 +1,32 @@
-# 👋 Bonjour, je suis **Mahefa Bienvenu**  
-## Développeur Full-Stack passionné
+# 👋 Hi, I'm **Mahefa Bienvenu**  
+## Passionate Full-Stack Developer
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)  
-
----
-
-### 🌱 Actuellement en train d'apprendre :  
-- **Vue.js**, **Python**, et **Intelligence Artificielle**  
+[![LinkedIn Follow](https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
 
 ---
 
-### 👨‍💻 Mes compétences actuelles :  
-- **Frontend** : React.js, Vue.js  
-- **Backend** : Node.js, Express  
-- **Bases de données** : MongoDB, MySQL  
-- **Outils et autres** : Git, Docker, Webpack
+### 🌱 Currently learning:  
+- **Vue.js**, **Python**, and **Artificial Intelligence**  
 
 ---
 
-### 🚀 Mes projets sont disponibles sur mon [GitHub](https://github.com/mahf-TB?tab=repositories)  
-
-Je développe des applications complexes et évolutives, en mettant l'accent sur la qualité du code, la performance et l'expérience utilisateur. Explore mes projets pour voir de quoi je suis capable !
-
----
-
-### 💬 Toujours prêt à discuter de nouvelles opportunités et projets intéressants !  
-Tu peux me contacter par email : **mahefatsilavirintsoa@gmail.com**
+### 👨‍💻 My current skills:  
+- **Frontend**: React.js, Vue.js  
+- **Backend**: Node.js, Express  
+- **Databases**: MongoDB, MySQL  
+- **Tools & Others**: Git, Docker, Webpack
 
 ---
 
-### 📈 Actuellement en quête de nouvelles opportunités de collaboration ou de développement !
+### 🚀 Check out my projects on [GitHub Repositories](https://github.com/mahf-TB?tab=repositories)  
 
+I build scalable and performant applications, focusing on clean code, high performance, and great user experiences. Explore my projects to see my work in action!
 
-<!--
-![dxh31by0dui11](https://github.com/mahf-TB/mahf-TB/assets/110841675/fd163385-54ae-42ff-8272-28d4cd597ce0)
+---
 
+### 💬 Always open to discussing new opportunities and exciting projects!  
+Feel free to reach out to me via email at **mahefatsilavirintsoa@gmail.com**
 
-**mahf-TB/mahf-TB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Currently seeking new collaboration or development opportunities!
