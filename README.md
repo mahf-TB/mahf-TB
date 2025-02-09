@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Mahefa Bienvenu**  
 ## Passionate Full-Stack Developer
 
-[![LinkedIn Follow](https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![LinkedIn Follow](https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahefa-bienvenu-575188287/)  
 
 ---
 
@@ -13,8 +13,8 @@
 ### 👨‍💻 My current skills:  
 - **Frontend**: React.js, Vue.js  
 - **Backend**: Node.js, Express  
-- **Databases**: MongoDB, MySQL  
-- **Tools & Others**: Git, Docker, Webpack
+- **Databases**: MongoDB, MySQL, PostgreSql
+- **Tools & Others**: Git, Docker, Trello
 
 ---
 
