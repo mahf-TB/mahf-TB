@@ -12,7 +12,7 @@
 
 ### 👨‍💻 My current skills:  
 - **Frontend**: React.js, Vue.js  
-- **Backend**: Node.js, Express  
+- **Backend**: Node.js, Express, Python, Laravel 
 - **Databases**: MongoDB, MySQL, PostgreSql
 - **Tools & Others**: Git, Docker, Trello
 
