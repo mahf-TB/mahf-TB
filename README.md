@@ -11,8 +11,8 @@
 ---
 
 ### 👨‍💻 My current skills:  
-- **Frontend**: React.js, Vue.js  
-- **Backend**: Node.js, Express, Python, Laravel 
+- **Frontend**: React, Next.js, Vue.js 
+- **Backend**: Express.js, Nest.js, Django, Laravel 
 - **Databases**: MongoDB, MySQL, PostgreSql
 - **Tools & Others**: Git, Docker, Trello
 
