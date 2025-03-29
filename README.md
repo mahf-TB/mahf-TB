@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 Currently learning:  
-- **Vue.js**, **Python**, and **Artificial Intelligence**  
+- **Nuxt**, **Django**, and **Artificial Intelligence**  
 
 ---
 
