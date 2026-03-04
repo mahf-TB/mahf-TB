@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Bienvenu ANDRIMAHEFA  
 
+
 #### 🎓 Master’s Student in Software Engineering and Fullstack Engineer 
+
+
 
 <p align="center">
 
@@ -10,26 +13,6 @@
 </p>
 
 
-
-
-## ⚡ Tech Stack
-
-### 🖥 Frontend
-React · Next.js · Vite · TailwindCSS · shadcn/ui · Sass  
-
-### ⚙ Backend
-NestJS · Express.js · Laravel · Node.js · PHP · TypeScript · Go  
-
-### 🗄 Data & Infrastructure
-MySQL · PostgreSQL · MongoDB · Redis  
-
-
-
-### 🏗 Engineering Principles
-MVC · 3-Tier Architecture · REST APIs · UML · MERISE · Agile  
-
----
-
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -38,9 +21,12 @@ MVC · 3-Tier Architecture · REST APIs · UML · MERISE · Agile
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDb"/>
 </p>
 
----
+
 
 ## 📊 GitHub Activity
 
