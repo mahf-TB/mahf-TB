@@ -1,33 +1,16 @@
 # 👋 Hi, I'm Bienvenu ANDRIMAHEFA  
 
+#### 🎓 Master’s Student in Software Engineering and Fullstack Engineer 
+
 <p align="center">
 
 <a href="mailto:mahefatsilavirintsoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="https://www.linkedin.com/in/mahefa-bienvenu-575188287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 </p>
----
 
-### 🎓 Master’s Student in Software Engineering  
-### 💻 Fullstack Engineer | Product-Driven 
-### 🌍 Africa-based | Open to Remote Opportunities  
 
----
 
-## 🚀 About Me
-
-I build scalable, maintainable, and product-oriented applications.
-
-My approach combines:
-
-- Structured backend architecture (modular & domain-driven mindset)
-- Clean and maintainable frontend systems
-- Scalable SaaS-ready foundations
-- Strong engineering principles over quick hacks
-
-I don’t just write code — I design systems.
-
----
 
 ## ⚡ Tech Stack
 
@@ -40,8 +23,7 @@ NestJS · Express.js · Laravel · Node.js · PHP · TypeScript · Go
 ### 🗄 Data & Infrastructure
 MySQL · PostgreSQL · MongoDB · Redis  
 
-### 🧪 Testing
-Jest  
+
 
 ### 🏗 Engineering Principles
 MVC · 3-Tier Architecture · REST APIs · UML · MERISE · Agile  
