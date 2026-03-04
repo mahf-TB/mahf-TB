@@ -9,9 +9,7 @@
 </a>
 </p>
 
-### Fullstack Engineer — Product & System Architecture Focus  
-
-Master’s Student in Software Engineering.  
+### Master’s Student in Software Engineering. 
 Africa-based · Open to remote opportunities.
 
 Email: mahefatsilavirintsoa@gmail.com  
