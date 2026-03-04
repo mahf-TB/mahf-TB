@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Bienvenu ANDRIMAHEFA  
 
 <p align="center">
-
-<a href="mailto:mahefatsilavirintsoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-<a href="https://www.linkedin.com/in/mahefa-bienvenu-575188287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:mahefatsilavirintsoa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mahefa-bienvenu-575188287/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
-#### 
-🎓 Master’s Student in Software Engineering 
-Fullstack Engineer focused on scalable systems and product architecture. 
+### Fullstack Engineer — Product & System Architecture Focus  
+
+Master’s Student in Software Engineering.  
 Africa-based · Open to remote opportunities.
-####
 
 Email: mahefatsilavirintsoa@gmail.com  
 Portfolio: https://mahefa-bnvb.vercel.app/  
@@ -20,41 +22,42 @@ Portfolio: https://mahefa-bnvb.vercel.app/
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDb"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-
+---
 
 ## About
 
-I design and build maintainable, production-ready applications.
+I build scalable, production-ready applications with a strong emphasis on architecture and long-term maintainability.
 
-My work emphasizes:
-- Modular backend architecture
-- Clean system design
-- Scalable SaaS foundations
-- Long-term maintainability over quick solutions
+My approach focuses on:
 
-I care about structure, clarity, and performance.
+- Modular and well-structured backend systems  
+- Clean, readable, and testable code  
+- SaaS-ready foundations  
+- Performance and scalability by design  
+
+I value clarity, robustness, and engineering discipline.
 
 ---
 
 ## Current Focus
 
-- Advanced NestJS system design  
-- SaaS multi-tenant architecture  
-- Performance & scalability optimization  
-- Backend robustness & clean modularization  
+- Advanced system design with NestJS  
+- Multi-tenant SaaS architecture  
+- Backend performance optimization  
+- Building reliable and maintainable software  
 
 ---
 
-Building reliable systems.  
-🚀 Open to collaboration, internships, and product-focused opportunities.
+Building systems that scale.  
+Open to collaboration, internships, and product-driven opportunities.
