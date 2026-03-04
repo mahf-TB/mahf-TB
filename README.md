@@ -6,9 +6,11 @@
 <a href="https://www.linkedin.com/in/mahefa-bienvenu-575188287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
-#### 🎓 Master’s Student in Software Engineering 
-#### Fullstack Engineer focused on scalable systems and product architecture. 
-#### Africa-based · Open to remote opportunities.
+#### 
+🎓 Master’s Student in Software Engineering 
+Fullstack Engineer focused on scalable systems and product architecture. 
+Africa-based · Open to remote opportunities.
+####
 
 Email: mahefatsilavirintsoa@gmail.com  
 Portfolio: https://mahefa-bnvb.vercel.app/  
