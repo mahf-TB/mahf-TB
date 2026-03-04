@@ -10,13 +10,60 @@
 
 ---
 
-### 👨‍💻 My current skills:  
-- **Frontend**: React, Next.js, Vue.js 
-- **Backend**: Express.js, Nest.js, Django, Laravel 
-- **Databases**: MongoDB, MySQL, PostgreSql
-- **Tools & Others**: Git, Docker, Trello
+# 👋 Hi, I'm Bienvenu ANDRIMAHEFA
+
+💻 Fullstack Developer | Mobile Developer  
+🎓 Master’s Student in Software Engineering  
+📍 Madagascar  
 
 ---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on financial management and stock management systems  
+- 📱 I build mobile apps with React Native  
+- 🧠 Backend with NestJS, Node.js, Laravel  
+- 🏗️ I love clean architecture (MVC & 3-Tier)  
+- 🎯 Goal: Build scalable and impactful software in Africa  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+- React
+- React Native
+- Vue.js
+- Next.js
+
+### ⚙️ Backend
+- Node.js
+- NestJS
+- Laravel
+- Express.js
+
+### 🗄️ Database
+- MySQL
+- MongoDB
+- Oracle
+
+---
+
+## 📊 GitHub Stats
+
+![Bienvenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Portfolio: https://mahefa-bienvenu.vercel.app/
+- 💼 LinkedIn: (add your link)
+- 📧 Email: (add your email)
+
+---
+
+⭐️ From Madagascar with passion.
 
 ### 🚀 Check out my projects on [GitHub Repositories](https://github.com/mahf-TB?tab=repositories)  
 
