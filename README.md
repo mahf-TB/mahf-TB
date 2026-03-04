@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Bienvenu ANDRIMAHEFA  
 
-[![LinkedIn Follow](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahefa-bienvenu-575188287/)  
+<p align="center">
 
+<a href="mailto:mahefatsilavirintsoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/mahefa-bienvenu-575188287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+
+</p>
 ---
 
-## 🎓 Master’s Student in Software Engineering — ENI Fianarantsoa  
-## 💻 Fullstack Engineer | Product-Driven | Clean Architecture Advocate  
-## 🌍 Africa-based | Open to Remote Opportunities  
+### 🎓 Master’s Student in Software Engineering  
+### 💻 Fullstack Engineer | Product-Driven 
+### 🌍 Africa-based | Open to Remote Opportunities  
 
 ---
 
