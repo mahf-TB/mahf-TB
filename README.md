@@ -1,79 +1,73 @@
-# 👋 Hi, I'm **Mahefa Bienvenu**  
-## Passionate Full-Stack Developer
+# 👋 Hi, I'm Bienvenu ANDRIMAHEFA 
 
 [![LinkedIn Follow](https://img.shields.io/badge/Follow%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahefa-bienvenu-575188287/)  
 
 ---
-
-### 🌱 Currently learning:  
-- **Nuxt**, **Django**, and **Artificial Intelligence**  
-
----
-
-# 👋 Hi, I'm Bienvenu ANDRIMAHEFA
-
-💻 Fullstack Developer | Mobile Developer  
-🎓 Master’s Student in Software Engineering  
-📍 Madagascar  
+🎓 Master’s Student in Software Engineering – ENI Fianarantsoa  
+💻 Fullstack Developer | Product-Oriented | Clean Architecture Enthusiast  
+🌍 Based in Africa | Open to remote opportunities  
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on financial management and stock management systems  
-- 📱 I build mobile apps with React Native  
-- 🧠 Backend with NestJS, Node.js, Laravel  
-- 🏗️ I love clean architecture (MVC & 3-Tier)  
-- 🎯 Goal: Build scalable and impactful software in Africa  
+I am a Fullstack Developer specialized in building scalable and well-structured business applications.
+
+I focus on:
+- Clean architecture
+- Modular backend design
+- Product-oriented development
+- Scalable SaaS systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 👨‍💻 Frontend
-- React
-- React Native
+### Backend
+- Node.js (Express, NestJS)
+- PHP (Laravel)
+- Java (Jakarta EE)
+- MySQL, MongoDB, Oracle
+
+### Frontend
+- React (Vite)
 - Vue.js
 - Next.js
 
-### ⚙️ Backend
-- Node.js
-- NestJS
-- Laravel
-- Express.js
+### Mobile
+- React Native
 
-### 🗄️ Database
-- MySQL
-- MongoDB
-- Oracle
-
----
-
-## 📊 GitHub Stats
-
-![Bienvenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+### Architecture & Engineering
+- MVC
+- 3-Tier Architecture
+- REST APIs
+- UML & MERISE
+- Agile methodology
 
 ---
 
-## 📫 Contact Me
 
-- 🌐 Portfolio: https://mahefa-bienvenu.vercel.app/
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
+![Bienvenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahf-TB&show_icons=true&theme=tokyonight)
 
 ---
 
-⭐️ From Madagascar with passion.
+## 🎯 Current Focus
 
-### 🚀 Check out my projects on [GitHub Repositories](https://github.com/mahf-TB?tab=repositories)  
+- Advanced NestJS architecture
+- SaaS multi-tenant systems
+- Performance optimization
+- Scalable backend design
 
-I build scalable and performant applications, focusing on clean code, high performance, and great user experiences. Explore my projects to see my work in action!
+---
+
+## 📫 Contact
+
+📧 Email: mahefatsilavirintsoa@gmail.com  
+🌐 Portfolio: https://mahefa-bienvenu.vercel.app/  
+💼 LinkedIn: (Add your LinkedIn here)
 
 ---
 
-### 💬 Always open to discussing new opportunities and exciting projects!  
-Feel free to reach out to me via email at **mahefatsilavirintsoa@gmail.com**
-
----
+⭐ Always building. Always improving.
 
 ### 📈 Currently seeking new collaboration or development opportunities!
