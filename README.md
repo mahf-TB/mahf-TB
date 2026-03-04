@@ -1,16 +1,12 @@
 # 👋 Hi, I'm Bienvenu ANDRIMAHEFA  
 
-
-#### 🎓 Master’s Student in Software Engineering and Fullstack Engineer 
-
-
-
 <p align="center">
 
 <a href="mailto:mahefatsilavirintsoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="https://www.linkedin.com/in/mahefa-bienvenu-575188287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-
 </p>
+
+#### 🎓 Master’s Student in Software Engineering Fullstack Engineer focused on scalable systems and product architecture. Africa-based · Open to remote opportunities.
 
 
 <p align="left">
@@ -28,13 +24,21 @@
 
 
 
-## 📊 GitHub Activity
+## About
 
-![Bienvenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahf-TB&show_icons=true&theme=tokyonight)
+I design and build maintainable, production-ready applications.
+
+My work emphasizes:
+- Modular backend architecture
+- Clean system design
+- Scalable SaaS foundations
+- Long-term maintainability over quick solutions
+
+I care about structure, clarity, and performance.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Advanced NestJS system design  
 - SaaS multi-tenant architecture  
@@ -43,7 +47,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 Email: mahefatsilavirintsoa@gmail.com  
 🌐 Portfolio: https://mahefa-bnvb.vercel.app/  
@@ -51,5 +55,5 @@
 
 ---
 
-⭐ Building reliable systems.  
+Building reliable systems.  
 🚀 Open to collaboration, internships, and product-focused opportunities.
