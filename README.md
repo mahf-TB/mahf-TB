@@ -10,7 +10,7 @@
 </p>
 
 ### Master’s Student in Software Engineering. 
-Africa-based · Open to remote opportunities.
+Open to remote opportunities.
 
 Email: mahefatsilavirintsoa@gmail.com  
 Portfolio: https://mahefa-bnvb.vercel.app/  
