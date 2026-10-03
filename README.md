@@ -9,7 +9,7 @@
 </a>
 </p>
 
-### Master’s Student in Software Engineering. 
+### Software & AI Engineering. 
 Open to remote opportunities.
 
 Email: mahefatsilavirintsoa@gmail.com  
